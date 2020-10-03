@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/joaoscaravonatti/clean-node-api.svg?branch=master)](https://travis-ci.org/joaoscaravonatti/clean-node-api)
+[![Coverage Status](https://coveralls.io/repos/github/joaoscaravonatti/clean-node-api/badge.svg)](https://coveralls.io/github/joaoscaravonatti/clean-node-api)
